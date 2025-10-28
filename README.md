@@ -38,7 +38,8 @@ predictedCO2 = regr.predict(pd.DataFrame([[3300, 1300]], columns=['Weight', 'Vol
 print('Predicted CO2 for the corresponding weight and volume:', predictedCO2)
 ```
 ## Output:
-![Output Image](image.png)
+
+<img width="592" height="91" alt="Screenshot 2025-10-28 142425" src="https://github.com/user-attachments/assets/513d5557-fb61-42bf-9bf8-2c9e95a6006b" />
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
